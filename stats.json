@@ -1,12 +1,12 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-29",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 4,
+    "medium": 5,
     "hard": 0,
     "basic": 0
   },
@@ -15,16 +15,18 @@
     "GeeksForGeeks_Vowel_or_Not": true,
     "GeeksForGeeks_Print_With_Space": true,
     "GeeksForGeeks_The_FizzBuzz_Program": true,
-    "GeeksForGeeks_Convert_String_to_Lower_Case": true
+    "GeeksForGeeks_Convert_String_to_Lower_Case": true,
+    "GeeksForGeeks_Last_Digit_of_a_number": true
   },
   "activityHistory": {
-    "2026-07-29": 5
+    "2026-07-29": 6
   },
   "todayProblems": [
     "Even Odd Game",
     "Vowel or Not",
     "Print With Space",
     "The FizzBuzz Program",
-    "Convert String to Lower Case"
+    "Convert String to Lower Case",
+    "Last Digit of a number"
   ]
 }
