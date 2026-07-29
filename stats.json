@@ -1,14 +1,14 @@
 {
-  "totalSolved": 10,
+  "totalSolved": 11,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-30",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 1,
     "medium": 7,
     "hard": 0,
-    "basic": 2
+    "basic": 3
   },
   "syncedProblems": {
     "GeeksForGeeks_Even_Odd_Game": true,
@@ -20,15 +20,17 @@
     "GeeksForGeeks_Array_Traversal": true,
     "GeeksForGeeks_Even_Positioned_Characters": true,
     "GeeksForGeeks_Bitwise_Operators": true,
-    "GeeksForGeeks_Type_Conversion": true
+    "GeeksForGeeks_Type_Conversion": true,
+    "GeeksForGeeks_TypeCast_And_Double_It": true
   },
   "activityHistory": {
     "2026-07-29": 7,
-    "2026-07-30": 3
+    "2026-07-30": 4
   },
   "todayProblems": [
     "Even Positioned Characters",
     "Bitwise Operators",
-    "Type Conversion"
+    "Type Conversion",
+    "TypeCast And Double It"
   ]
 }
