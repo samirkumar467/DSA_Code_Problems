@@ -8,3 +8,4 @@
 | 6 | [Last Digit of a number](./GeeksForGeeks/Medium/Last%20Digit%20of%20a%20number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/last-digit-of-a-number--145429/1?page=1&category=Java&sortBy=submissions) | Medium | 29 Jul 2026 | 11:48 pm |
 | 7 | [Array Traversal](./GeeksForGeeks/Basic/Array%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-traversal/1?page=1&category=Java&sortBy=submissions) | Basic | 29 Jul 2026 | 11:54 pm |
 | 8 | [Even Positioned Characters](./GeeksForGeeks/Medium/Even%20Positioned%20Characters) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/for-loop-2/1?page=1&category=Java&sortBy=submissions) | Medium | 30 Jul 2026 | 12:00 am |
+| 9 | [Bitwise Operators](./GeeksForGeeks/Basic/Bitwise%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bitwise-operators-1597314674--135255/1?page=1&category=Java&sortBy=submissions) | Basic | 30 Jul 2026 | 12:03 am |
