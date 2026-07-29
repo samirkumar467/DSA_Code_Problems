@@ -6,3 +6,4 @@
 | 4 | [The FizzBuzz Program](./GeeksForGeeks/Medium/The%20FizzBuzz%20Program) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-fizzbuzz-program/1?page=1&category=Java&sortBy=submissions) | Medium | 29 Jul 2026 | 11:30 pm |
 | 5 | [Convert String to Lower Case](./GeeksForGeeks/Medium/Convert%20String%20to%20Lower%20Case) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/convert-string-to-lowercase/1?page=1&category=Java&sortBy=submissions) | Medium | 29 Jul 2026 | 11:39 pm |
 | 6 | [Last Digit of a number](./GeeksForGeeks/Medium/Last%20Digit%20of%20a%20number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/last-digit-of-a-number--145429/1?page=1&category=Java&sortBy=submissions) | Medium | 29 Jul 2026 | 11:48 pm |
+| 7 | [Array Traversal](./GeeksForGeeks/Basic/Array%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-traversal/1?page=1&category=Java&sortBy=submissions) | Basic | 29 Jul 2026 | 11:54 pm |
