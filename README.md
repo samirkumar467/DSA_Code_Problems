@@ -12,3 +12,4 @@
 | 10 | [Type Conversion](./GeeksForGeeks/Medium/Type%20Conversion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/type-conversion--151956/1?page=1&category=Java&sortBy=submissions) | Medium | 30 Jul 2026 | 12:10 am |
 | 11 | [TypeCast And Double It](./GeeksForGeeks/Basic/TypeCast%20And%20Double%20It) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/typecast-and-double-it--153103/1?page=2&category=Java&sortBy=submissions) | Basic | 30 Jul 2026 | 12:19 am |
 | 12 | [The Else Statement](./GeeksForGeeks/Basic/The%20Else%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-else-statement--115735/1?page=2&category=Java&sortBy=submissions) | Basic | 30 Jul 2026 | 12:22 am |
+| 13 | [Undirected Graph Cycle](./GeeksForGeeks/Medium/Undirected%20Graph%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | Medium | 30 Jul 2026 | 03:25 pm |
