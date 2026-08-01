@@ -15,3 +15,4 @@
 | 13 | [Undirected Graph Cycle](./GeeksForGeeks/Medium/Undirected%20Graph%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | Medium | 30 Jul 2026 | 03:25 pm |
 | 14 | [Java Switch Case statement](./GeeksForGeeks/Medium/Java%20Switch%20Case%20statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-switch-case-statement3529/1?page=1&category=Java&sortBy=submissions) | Medium | 01 Aug 2026 | 10:24 pm |
 | 15 | [Print Square](./GeeksForGeeks/Basic/Print%20Square) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-square--105330/1?page=1&category=Java&sortBy=submissions) | Basic | 01 Aug 2026 | 10:54 pm |
+| 16 | [Print Solid Square](./GeeksForGeeks/Medium/Print%20Solid%20Square) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-square-wall-1605682270/1?page=1&category=Java&sortBy=submissions) | Medium | 01 Aug 2026 | 11:05 pm |
