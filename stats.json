@@ -1,14 +1,14 @@
 {
-  "totalSolved": 21,
+  "totalSolved": 22,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-03",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 1,
     "medium": 11,
     "hard": 0,
-    "basic": 9
+    "basic": 10
   },
   "syncedProblems": {
     "GeeksForGeeks_Even_Odd_Game": true,
@@ -31,19 +31,21 @@
     "GeeksForGeeks_Switch_Statement": true,
     "GeeksForGeeks_Evaluate_Formulae": true,
     "GeeksForGeeks_Concatenate_Integers": true,
-    "GeeksForGeeks_Print_Without_Space": true
+    "GeeksForGeeks_Print_Without_Space": true,
+    "GeeksForGeeks_The_Else_if_Statement": true
   },
   "activityHistory": {
     "2026-07-29": 7,
     "2026-07-30": 6,
     "2026-08-01": 3,
-    "2026-08-03": 5
+    "2026-08-03": 6
   },
   "todayProblems": [
     "Print With Separator",
     "Switch Statement",
     "Evaluate Formulae",
     "Concatenate Integers",
-    "Print Without Space"
+    "Print Without Space",
+    "The Else if Statement"
   ]
 }
