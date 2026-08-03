@@ -19,3 +19,4 @@
 | 17 | [Print With Separator](./GeeksForGeeks/Basic/Print%20With%20Separator) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-with-separator/1?page=1&category=Java&sortBy=submissions) | Basic | 03 Aug 2026 | 12:09 pm |
 | 18 | [Switch Statement](./GeeksForGeeks/Basic/Switch%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/switch-statement/1?page=2&category=Java&sortBy=submissions) | Basic | 03 Aug 2026 | 12:15 pm |
 | 19 | [Evaluate Formulae](./GeeksForGeeks/Basic/Evaluate%20Formulae) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/evaluate-formulae--133849/1?page=2&category=Java&sortBy=difficulty) | Basic | 03 Aug 2026 | 12:22 pm |
+| 20 | [Concatenate Integers](./GeeksForGeeks/Basic/Concatenate%20Integers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/concatenate-integers/1?page=2&category=Java&sortBy=difficulty) | Basic | 03 Aug 2026 | 12:34 pm |
