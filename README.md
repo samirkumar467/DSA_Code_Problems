@@ -23,3 +23,4 @@
 | 21 | [Print Without Space](./GeeksForGeeks/Medium/Print%20Without%20Space) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-without-space--124240/1?page=2&category=Java&sortBy=difficulty) | Medium | 03 Aug 2026 | 12:40 pm |
 | 22 | [The Else if Statement](./GeeksForGeeks/Basic/The%20Else%20if%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-else-if-statement/1?page=2&category=Java&sortBy=difficulty) | Basic | 03 Aug 2026 | 12:43 pm |
 | 23 | [Java Input/Output](./GeeksForGeeks/Basic/Java%20Input/Output) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-inputoutput0118/1?page=2&category=Java&sortBy=difficulty) | Basic | 03 Aug 2026 | 12:46 pm |
+| 24 | [Data Types - Java](./GeeksForGeeks/Easy/Data%20Types%20-%20Java) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/data-types-java/1?page=1&category=Java&sortBy=submissions) | Easy | 06 Aug 2026 | 09:35 pm |
