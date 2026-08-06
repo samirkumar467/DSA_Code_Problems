@@ -24,3 +24,4 @@
 | 22 | [The Else if Statement](./GeeksForGeeks/Basic/The%20Else%20if%20Statement) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-else-if-statement/1?page=2&category=Java&sortBy=difficulty) | Basic | 03 Aug 2026 | 12:43 pm |
 | 23 | [Java Input/Output](./GeeksForGeeks/Basic/Java%20Input/Output) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-inputoutput0118/1?page=2&category=Java&sortBy=difficulty) | Basic | 03 Aug 2026 | 12:46 pm |
 | 24 | [Data Types - Java](./GeeksForGeeks/Easy/Data%20Types%20-%20Java) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/data-types-java/1?page=1&category=Java&sortBy=submissions) | Easy | 06 Aug 2026 | 09:35 pm |
+| 25 | [Java Arrays | Set 1](./GeeksForGeeks/Easy/Java%20Arrays%20%7C%20Set%201) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-arrays-set-11354/1?page=2&category=Java&sortBy=submissions) | Easy | 06 Aug 2026 | 10:18 pm |
