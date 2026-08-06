@@ -27,3 +27,4 @@
 | 25 | [Java Arrays | Set 1](./GeeksForGeeks/Easy/Java%20Arrays%20%7C%20Set%201) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-arrays-set-11354/1?page=2&category=Java&sortBy=submissions) | Easy | 06 Aug 2026 | 10:18 pm |
 | 26 | [nextLine and next](./GeeksForGeeks/Medium/nextLine%20and%20next) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nextline-and-next/1?page=2&category=Java&sortBy=submissions) | Medium | 06 Aug 2026 | 10:22 pm |
 | 27 | [AP Term](./GeeksForGeeks/Easy/AP%20Term) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/ap-term--150919/1?page=2&category=Java&sortBy=submissions) | Easy | 06 Aug 2026 | 10:30 pm |
+| 28 | [All Prime Factors in Sorted Order](./GeeksForGeeks/Easy/All%20Prime%20Factors%20in%20Sorted%20Order) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prime-factorization/1?page=2&category=Java&sortBy=submissions) | Easy | 06 Aug 2026 | 10:38 pm |
