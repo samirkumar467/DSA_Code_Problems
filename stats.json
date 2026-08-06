@@ -1,12 +1,12 @@
 {
-  "totalSolved": 25,
+  "totalSolved": 26,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-06",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 11,
+    "medium": 12,
     "hard": 0,
     "basic": 11
   },
@@ -35,17 +35,19 @@
     "GeeksForGeeks_The_Else_if_Statement": true,
     "GeeksForGeeks_Java_Input/Output": true,
     "GeeksForGeeks_Data_Types_-_Java": true,
-    "GeeksForGeeks_Java_Arrays_|_Set_1": true
+    "GeeksForGeeks_Java_Arrays_|_Set_1": true,
+    "GeeksForGeeks_nextLine_and_next": true
   },
   "activityHistory": {
     "2026-07-29": 7,
     "2026-07-30": 6,
     "2026-08-01": 3,
     "2026-08-03": 7,
-    "2026-08-06": 2
+    "2026-08-06": 3
   },
   "todayProblems": [
     "Data Types - Java",
-    "Java Arrays | Set 1"
+    "Java Arrays | Set 1",
+    "nextLine and next"
   ]
 }
